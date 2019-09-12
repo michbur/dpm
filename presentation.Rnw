@@ -1047,6 +1047,8 @@ MI$^2$ Data Lab (\url{https://mi2.mini.pw.edu.pl/}), Wydział Matematyki i Nauk 
 
 Kontakt: \url{michalburdukiewicz@gmail.com}.
 
+Prezentacja: \url{https://github.com/michbur/dpm}.
+
 \end{frame}
 
 \begin{frame}[allowframebreaks]
