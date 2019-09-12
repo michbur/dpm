@@ -99,7 +99,9 @@ names(best_enc) <- 1L:6
 
 \begin{frame}{Bioinformatyka}
 
-nauka zajmująca się stosowaniem narzędzi matematycznych oraz informatycznych do rozwiązywania problemów biologicznych
+bioinformatyka [gr.-łac.], \textit{interdyscyplinarna dziedzina nauki zajmująca się sposobami gromadzenia, przekazywania i przetwarzania informacji w układach biol., gł. na poziomie mezoskopowym (na poziomie makromolekuł);}
+
+Źródło: \url{sjp.pwn.pl}.
 
 \end{frame} 
 
